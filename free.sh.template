@@ -1,0 +1,5 @@
+#!/bin/bash
+
+export INN_PATH=/path/to/inn
+
+/usr/bin/python3 /path/to/free.py >> $INN_PATH

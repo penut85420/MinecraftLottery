@@ -1,0 +1,183 @@
+{
+    "tiers": [
+        {
+            "name": "super_ultra_rare",
+            "weight": 0.1,
+            "display": "§0§0【黑金賞】"
+        },
+        {
+            "name": "ultra_rare",
+            "weight": 1,
+            "display": "§1§d【白金賞】"
+        },
+        {
+            "name": "rare",
+            "weight": 3,
+            "display": "§2§e【金賞】"
+        },
+        {
+            "name": "uncommon",
+            "weight": 6,
+            "display": "§3§7【銀賞】"
+        },
+        {
+            "name": "common",
+            "weight": 90,
+            "display": "§4§6【銅賞】"
+        }
+    ],
+    "super_ultra_rare": [
+        {
+            "name": "§d超究極大歐派黑金弒神王者",
+            "item": "netherite_pickaxe{display:{Name:'[{\"text\":\"超究極大歐派黑金弒神王者\",\"italic\":false,\"color\":\"yellow\"},{\"text\":\"\",\"italic\":false,\"color\":\"yellow\"}]',Lore:['[{\"text\":\"比黑色更黑 比黑暗更暗的漆黑\",\"italic\":false,\"color\":\"red\"}]','[{\"text\":\"在此寄託吾真紅的金光吧\",\"italic\":false,\"color\":\"red\"}]','[{\"text\":\"覺醒之時的到來 荒謬教會的墮落章理\",\"italic\":false,\"color\":\"red\"}]','[{\"text\":\"化作無形的扭曲而顯現吧\",\"italic\":false,\"color\":\"red\"}]','[{\"text\":\"Explosion!!!!!\",\"italic\":false,\"color\":\"red\"}]']},Enchantments:[{id:efficiency,lvl:10},{id:fortune,lvl:10},{id:unbreaking,lvl:10},{id:mending,lvl:1}]} 1"
+        },
+        {
+            "name": "§d超究極大歐派黑金狂砂亂舞",
+            "item": "netherite_axe{display:{Name:'[{\"text\":\" \",\"italic\":false},{\"text\":\"超究極大歐派黑金狂砂亂舞\",\"color\":\"yellow\"}]',Lore:['[{\"text\":\"\",\"italic\":false}]','[{\"text\":\"隱藏著黑暗力量的鑰匙啊!!\",\"italic\":false,\"color\":\"red\"}]','[{\"text\":\"在我面前顯示出你真正的力量\",\"italic\":false,\"color\":\"red\"}]','[{\"text\":\"與你定下約定的大歐派神命令你\",\"italic\":false,\"color\":\"red\"}]','[{\"text\":\"封印解除!!\",\"italic\":false,\"color\":\"red\"}]']},Enchantments:[{id:efficiency,lvl:10},{id:fortune,lvl:10},{id:sharpness,lvl:10},{id:unbreaking,lvl:10},{id:mending,lvl:1}]} 1"
+        },
+        {
+            "name": "§d超究極大歐派黑金神語聖劍",
+            "item": "netherite_sword{display:{Name:'[{\"text\":\"超究極大歐派黑金神語聖劍\",\"italic\":false,\"color\":\"yellow\"},{\"text\":\"\",\"italic\":false,\"color\":\"yellow\"}]',Lore:['[{\"text\":\"既然你誠心誠意的發問了！\",\"italic\":false,\"color\":\"red\"}]','[{\"text\":\"我們就大發慈悲的告訴你！\",\"italic\":false,\"color\":\"red\"}]','[{\"text\":\"為了防止世界被破壞！\",\"italic\":false,\"color\":\"red\"}]','[{\"text\":\"為了守護世界的和平！\",\"italic\":false,\"color\":\"red\"}]','[{\"text\":\"貫徹愛與真實的邪惡！\",\"italic\":false,\"color\":\"red\"}]','[{\"text\":\"可愛又迷人的反派角色！\",\"italic\":false,\"color\":\"red\"}]','[{\"text\":\"武藏！小次郎！\",\"italic\":false,\"color\":\"red\"}]','[{\"text\":\"我們是穿梭在銀河的大歐派艦隊\",\"italic\":false,\"color\":\"red\"}]','[{\"text\":\"白洞！白色的明天在等著我們！\",\"italic\":false,\"color\":\"red\"}]','[{\"text\":\"就是這樣～喵！\",\"italic\":false,\"color\":\"red\"}]']},Enchantments:[{id:bane_of_arthropods,lvl:10},{id:smite,lvl:10},{id:sharpness,lvl:10},{id:fire_aspect,lvl:10},{id:knockback,lvl:10},{id:looting,lvl:10},{id:sweeping,lvl:10},{id:unbreaking,lvl:10},{id:mending,lvl:1}]} 1"
+        },
+        {
+            "name": "§d超究極大歐派黑金宝鐘マリン",
+            "item": "netherite_hoe{Damage:0,AttributeModifiers:[{AttributeName:\"generic.attack_damage\",Amount:12,Slot:mainhand,Name:\"generic.attack_damage\",UUID:[I;-121515,6561,203740,-13122]},{AttributeName:\"generic.attack_speed\",Amount:2,Slot:mainhand,Name:\"generic.attack_speed\",UUID:[I;-121515,6661,203740,-13322]}],display:{Name:'[{\"text\":\" \",\"italic\":false},{\"text\":\"超究極大歐派黑金宝鐘マリン\",\"color\":\"yellow\"}]',Lore:['[{\"text\":\"\",\"italic\":false}]','[{\"text\":\"海賊なら Yo-Ho! 踊れ叫べ Yo-Ho!\",\"italic\":false,\"color\":\"red\"}]','[{\"text\":\"さぁ今旗のもとへ\",\"italic\":false,\"color\":\"red\"}]','[{\"text\":\"宝鐘海賊団「出航～！」\",\"italic\":false,\"color\":\"red\"}]','[{\"text\":\"Ahoy! Ahoy! Ahoy! Ahoy!\",\"italic\":false,\"color\":\"red\"}]','[{\"text\":\"踊る Ahoy! に見る Ahoy! ホイホーイ！\",\"italic\":false,\"color\":\"red\"}]','[{\"text\":\"Ahoy! Ahoy! Ahoy! ホイホイホーイ！\",\"italic\":false,\"color\":\"red\"}]','[{\"text\":\"「全速前進だ〜！」\",\"italic\":false,\"color\":\"red\"}]']},Enchantments:[{id:efficiency,lvl:10},{id:fortune,lvl:10},{id:sharpness,lvl:10},{id:unbreaking,lvl:10},{id:mending,lvl:1}]} 1"
+        },
+        {
+            "name": "§d超究極大歐派黑金月夜雕刻者",
+            "item": "netherite_shovel{display:{Name:'[{\"text\":\"超究極大歐派黑金月夜雕刻者\",\"italic\":false,\"color\":\"yellow\"},{\"text\":\"\",\"italic\":false,\"color\":\"yellow\"}]',Lore:['[{\"text\":\"一袋米要扛幾樓 一袋米要扛二樓\",\"italic\":false,\"color\":\"red\"}]','[{\"text\":\"一袋米我給多了 一袋米我洗了\",\"italic\":false,\"color\":\"red\"}]','[{\"text\":\"一袋米我洗了那麼多泥 好多泥阿\",\"italic\":false,\"color\":\"red\"}]','[{\"text\":\"我挖坑扔 口口有泥\",\"italic\":false,\"color\":\"red\"}]','[{\"text\":\"誰給你一袋米呦 神羅天征！\",\"italic\":false,\"color\":\"red\"}]']},Enchantments:[{id:efficiency,lvl:10},{id:fortune,lvl:10},{id:unbreaking,lvl:10},{id:mending,lvl:1}]} 1"
+        }
+    ],
+    "ultra_rare": [
+        {
+            "name": "§6附魔金蘋果",
+            "item": "minecraft:enchanted_golden_apple"
+        },
+        {
+            "name": "§8遠古遺骸",
+            "item": "minecraft:ancient_debris"
+        },
+        {
+            "name": "§c超跑情人夢",
+            "item": "enchanted_book{display:{Name:'[{\"text\":\"超跑情人夢\",\"italic\":false,\"color\":\"red\"}]',Lore:['[{\"text\":\"轟隆隆隆 隆隆隆隆衝衝衝衝 拉風 引擎發動 引擎發動+++\",\"italic\":false,\"color\":\"yellow\",\"bold\":true}]']},Enchantments:[{id:soul_speed,lvl:3}]} 1"
+        }
+    ],
+    "rare": [
+        {
+            "name": "§b鑽石",
+            "item": "minecraft:diamond"
+        },
+        {
+            "name": "§6金蘋果",
+            "item": "minecraft:golden_apple"
+        },
+        {
+            "name": "§9海洋之心",
+            "item": "minecraft:heart_of_the_sea"
+        },
+        {
+            "name": "§b終界水晶",
+            "item": "minecraft:end_crystal"
+        },
+        {
+            "name": "§7界伏殼",
+            "item": "minecraft:shulker_shell"
+        },
+        {
+            "name": "§c哭啊",
+            "item": "crying_obsidian{display:{Lore:['[{\"text\":\"哭啊!\",\"italic\":false,\"color\":\"red\"}]']},Enchantments:[]} 1"
+        },
+        {
+            "name": "§6不死圖騰",
+            "item": "totem_of_undying{display:{Name:'[{\"text\":\"免死金牌\",\"italic\":false,\"color\":\"yellow\"}]',Lore:['[{\"text\":\"Andy 好色喔 A_A\",\"italic\":false,\"color\":\"light_purple\"}]']},Enchantments:[]} 1"
+        },
+        {
+            "name": "§e神秘的藥水",
+            "item": "potion{CustomPotionColor:16759552,display:{Name:'[{\"text\":\"大歐派藥水之超究極速快感．EX\",\"italic\":false,\"color\":\"yellow\"}]',Lore:['[{\"text\":\"無駄無駄無駄無駄無駄無駄無駄無駄無駄無駄無駄\",\"italic\":false,\"color\":\"red\"}]']},CustomPotionEffects:[{Id:8,Duration:24000,Amplifier:5},{Id:1,Duration:24000,Amplifier:5}]} 1"
+        },
+        {
+            "name": "§e高歌離席的海綿",
+            "item": "minecraft:sponge{display:{Name:'[{\"text\":\"海綿寶寶! 海綿寶寶!\",\"italic\":false,\"color\":\"green\"}]',Lore:['[{\"text\":\"...這塊海綿彷彿會說話...\",\"italic\":false,\"color\":\"gray\"}]']},Enchantments:[{id:luck_of_the_sea,lvl:3}]} 1"
+        }
+    ],
+    "uncommon": [
+        {
+            "name": "§e閃亮亮的黃金方塊",
+            "item": "minecraft:gold_block"
+        },
+        {
+            "name": "§a免費十連抽",
+            "item": "minecraft:emerald_block"
+        },
+        {
+            "name": "§2經驗瓶套組",
+            "item": "minecraft:experience_bottle 16"
+        },
+        {
+            "name": "§4火燙的棒棒",
+            "item": "minecraft:blaze_rod"
+        },
+        {
+            "name": "§6栓繩",
+            "item": "lead"
+        },
+        {
+            "name": "§c命名牌",
+            "item": "name_tag"
+        },
+        {
+            "name": "§a鱗甲",
+            "item": "scute"
+        },
+        {
+            "name": "§7鸚鵡螺殼",
+            "item": "nautilus_shell"
+        },
+        {
+            "name": "§d紫水晶碎片",
+            "item": "amethyst_shard"
+        },
+        {
+            "name": "§b冰磚",
+            "item": "packed_ice 4"
+        },
+        {
+            "name": "§a史萊姆球",
+            "item": "slime_ball"
+        }
+    ],
+    "common": [
+        {
+            "name": "§a有毒的歐派",
+            "item": "minecraft:poisonous_potato{display:{Name:'[{\"text\":\"奶子有毒!\",\"italic\":false,\"color\":\"green\"}]',Lore:['[{\"text\":\"...招潮蟹如是說...\",\"italic\":false,\"color\":\"gray\"}]']},Enchantments:[{id:vanishing_curse,lvl:1}]} 1"
+        },
+        {
+            "name": "§4新鮮的蘋果",
+            "item": "minecraft:apple"
+        },
+        {
+            "name": "§6香噴噴的烤馬鈴薯",
+            "item": "minecraft:baked_potato"
+        },
+        {
+            "name": "§d貓與歐派",
+            "item": "book{display:{Name:'[{\"text\":\"貓與歐派\",\"italic\":false,\"color\":\"red\"}]',Lore:['[{\"text\":\"歐派與貓\",\"italic\":false}]','[{\"text\":\"想要哪一個？\",\"italic\":false}]','[{\"text\":\"小孩子才做選擇！\",\"italic\":false}]','[{\"text\":\"兩個都給我打包起來！\",\"italic\":false}]']}} 1"
+        },
+        {
+            "name": "§9青金石方塊",
+            "item": "lapis_block"
+        },
+        {
+            "name": "§6小麥",
+            "item": "wheat"
+        },
+        {
+            "name": "§7火藥",
+            "item": "gunpowder"
+        },
+        {
+            "name": "§c紅石",
+            "item": "redstone"
+        }
+    ]
+}
